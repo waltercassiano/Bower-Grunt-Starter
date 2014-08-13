@@ -10,8 +10,19 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+<?php
+//--bower:less
+
+//--endbower
+
+//--bower:css
+
+//--endbower
+
+//--bower:js
+
+$script[] = "bower_components/jquery/dist/jquery.js";
+//--endbower
+?>
     </body>
 </html>

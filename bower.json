@@ -1,0 +1,19 @@
+{
+  "name": "bower-grunt",
+  "version": "1.0.0",
+  "authors": [
+    "cassiano_ti@yahoo.com.br"
+  ],
+  "description": "Utilitario para novos projetos, contendo o necessário.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
